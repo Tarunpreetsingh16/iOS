@@ -10,5 +10,9 @@
 
 #### Widget on long press
 
-![Widget tab ](https://github.com/Tarunpreetsingh16/iOS/blob/master/TruWeather/images/widget.PNG)
+![Widget](https://github.com/Tarunpreetsingh16/iOS/blob/master/TruWeather/images/widget.PNG)
+
+#### Landing screen 
+
+![Landing screen](https://github.com/Tarunpreetsingh16/iOS/blob/master/TruWeather/images/LandingScreen.jpg)
 
